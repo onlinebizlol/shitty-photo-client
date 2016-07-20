@@ -3,7 +3,7 @@
 </template>
 
 <script>
-// FIXME make it we don't have to do this
+// FIXME make it so we don't have to do this
 var NUM_PHOTOS = 2;
 
 export default {
