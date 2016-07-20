@@ -2,6 +2,12 @@
   "name": "photo",
   "description": "Delivers a shitty photo",
   "author": "mhgbrown <brown.mhg+git@gmail.com>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shittydot/photo.git"
+  },
   "scripts": {
     "dev": "webpack-dev-server --inline --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
